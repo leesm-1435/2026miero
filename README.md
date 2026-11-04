@@ -1,2 +1,2 @@
-# project_cgv
-cgv web coding
+# 2026 miero
+미에로화이바 적응형웹
